@@ -1,0 +1,2 @@
+rootProject.name='Kawal Korona'
+include ':app'
